@@ -1,0 +1,8 @@
+body { font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; margin: 0; color: #333; background: #fafafa; }
+header { background: #2b6cb0; color: #fff; padding: 40px 20px; text-align: center; }
+main { max-width: 720px; margin: 0 auto; padding: 24px 20px 60px; }
+h1 { margin: 0; font-size: 28px; }
+h2 { border-bottom: 1px solid #ddd; padding-bottom: 6px; }
+a { color: #2b6cb0; }
+article { background: #fff; border: 1px solid #eee; border-radius: 8px; padding: 16px; margin: 16px 0; }
+footer { text-align: center; color: #999; font-size: 13px; padding: 20px; }
